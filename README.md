@@ -1,11 +1,11 @@
-![Image](https://img.shields.io/npm/v/kirito.db?color=%2351F9C0&label=Wio.db) 
+![Image](https://img.shields.io/npm/v/kirito.db?color=%2351F9C0&label=Kiritodb.js) 
 ![Image](https://img.shields.io/npm/dt/kirito.db.svg?color=%2351FC0&maxAge=3600) 
 #
 <br>
 
 ## Yüklemek İçin
 ```npm
-npm install  kirito.db
+npm install  kiritodb.js
 ```
 
 # Uyarı || Warning
@@ -38,7 +38,7 @@ Some bug fixed and performance improved.
 const {
     JsonDatabase,
     YamlDatabase
-} = require("kirito.db");
+} = require("kiritodb.js");
 
 const db = new JsonDatabase({
   databasePath:"./databases/myJsonDatabase.json"
