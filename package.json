@@ -1,7 +1,7 @@
 {
-    "name": "kiritodb.js",
+    "name": "kirito.db",
     "version": "1.0.1",
-    "description": "Gözle okunabilir database modülü.",
+    "description": "kirito.db melhor database modular.",
     "main": "index.js",
     "directories": {
         "test": "test"
